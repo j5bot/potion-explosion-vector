@@ -1,4 +1,4 @@
-<style>
+<!-- <style>
  body { background-color: white; }
  
  table,thead,tbody,tr,th,td {
@@ -12,21 +12,22 @@
  
  h1,h2,h3,h4,td,th { color: rgb(62,62,62); }
 </style>
+-->
 
 # Potion Explosion Vector Graphics 
 
 ## Base Game
 
-| Name                            |                                           Outlined                                            |                                                            No Outline                                                             |
-|---------------------------------|:---------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
-| Potion of Wisdom                |                 ![Potion of Wisdom](optimized/base game/potion of wisdom.svg)                 |                ![Potion of Wisdom (No Outline)](optimized/base%20game/potion%20of%20wisdom%20-%20no%20outline.svg)                |
-| Potion of Magnetical Attraction |                                                                                               |                    ![Potion of Magnetical Attraction](optimized/base game/potion of magnetical attraction.svg)                    |
-| Balm of Uttermost Stickiness    | ![Balm of Uttermost Stickiness](optimized/base%20game/balm%20of%20uttermost%20stickiness.svg) | ![Balm of Uttermost Stickiness (No Outline)](optimized%2Fbase%20game%2Fbalm%20of%20uttermost%20stickiness%20-%20no%20outline.svg) |
-| Filter of Lavamancing           |       ![Filter of Lavamancing](optimized%2Fbase%20game%2Ffilter%20of%20lavamancing.svg)       |         ![Filter of Lavamancing (No Outline)](optimized%2Fbase%20game%2Ffilter%20of%20lavamancing%20-%20no%20outline.svg)         |
-| Potion of Prismatic Joy         |    ![Potion of Prismatic Joy](optimized%2Fbase%20game%2Fpotion%20of%20prismatic%20joy.svg)    |      ![Potion of Prismatic Joy (No Outline)](optimized%2Fbase%20game%2Fpotion%20of%20prismatic%20joy%20-%20no%20outline.svg)      |
-| Elixir of Blind Love            |                                                                                               |                         ![Elixir of Blind Love](optimized%2Fbase%20game%2Felixir%20of%20blind%20love.svg)                         |
-| Sands of Time                   |               ![Sands of Time](optimized%2Fbase%20game%2Fsands%20of%20time.svg)               |                 ![Sands of Time (No Outline)](optimized%2Fbase%20game%2Fsands%20of%20time%20-%20no%20outline.svg)                 |
-| Abyssal Draft                   |                ![Abyssal Draft](optimized%2Fbase%20game%2Fabyssal%20draft.svg)                |                  ![Abyssal Draft (No Outline)](optimized%2Fbase%20game%2Fabyssal%20draft%20-%20no%20outline.svg)                  |
+| Name                            |                                             Outlined                                              |                                                               No Outline                                                                |
+|---------------------------------|:-------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------------:|
+| Potion of Wisdom                |                 ![Potion of Wisdom](optimized/base%20game/potion%20of%20wisdom.svg)                  |                   ![Potion of Wisdom (No Outline)](optimized/base%20game/potion%20of%20wisdom%20-%20no%20outline.svg)                   |
+| Potion of Magnetical Attraction |                                                                                                   |                    ![Potion of Magnetical Attraction](optimized/base%20game/potion%20of%20magnetical%20attraction.svg)                     |
+| Balm of Uttermost Stickiness    |   ![Balm of Uttermost Stickiness](optimized/base%20game/balm%20of%20uttermost%20stickiness.svg)   |    ![Balm of Uttermost Stickiness (No Outline)](optimized%2Fbase%20game%2Fbalm%20of%20uttermost%20stickiness%20-%20no%20outline.svg)    |
+| Filter of Lavamancing           |         ![Filter of Lavamancing](optimized%2Fbase%20game%2Ffilter%20of%20lavamancing.svg)         |            ![Filter of Lavamancing (No Outline)](optimized%2Fbase%20game%2Ffilter%20of%20lavamancing%20-%20no%20outline.svg)            |
+| Potion of Prismatic Joy         |      ![Potion of Prismatic Joy](optimized%2Fbase%20game%2Fpotion%20of%20prismatic%20joy.svg)      |         ![Potion of Prismatic Joy (No Outline)](optimized%2Fbase%20game%2Fpotion%20of%20prismatic%20joy%20-%20no%20outline.svg)         |
+| Elixir of Blind Love            |                                                                                                   |                            ![Elixir of Blind Love](optimized%2Fbase%20game%2Felixir%20of%20blind%20love.svg)                            |
+| Sands of Time                   |                 ![Sands of Time](optimized%2Fbase%20game%2Fsands%20of%20time.svg)                 |                    ![Sands of Time (No Outline)](optimized%2Fbase%20game%2Fsands%20of%20time%20-%20no%20outline.svg)                    |
+| Abyssal Draft                   |                  ![Abyssal Draft](optimized%2Fbase%20game%2Fabyssal%20draft.svg)                  |                     ![Abyssal Draft (No Outline)](optimized%2Fbase%20game%2Fabyssal%20draft%20-%20no%20outline.svg)                     |
 
 
 ## Fifth Ingredient

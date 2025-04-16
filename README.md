@@ -1,4 +1,4 @@
-<!-- <style>
+<style>
  body { background-color: white; }
  
  table,thead,tbody,tr,th,td {
@@ -12,7 +12,6 @@
  
  h1,h2,h3,h4,td,th { color: rgb(62,62,62); }
 </style>
--->
 
 # Potion Explosion Vector Graphics 
 
@@ -36,7 +35,7 @@
 |---------------------------|:------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------:|
 | Brew of Feather Touch     | ![Brew of Feather Touch](optimized%2Ffifth%20ingredient%2Fbrew%20of%20feather%20touch.svg) | ![Brew of Feather Touch (No Outline)](optimized%2Ffifth%20ingredient%2Fbrew%20of%20feather%20touch%20-%20no%20outline.svg) |
 | Chameleonic Varnish       |     ![Chameleonic Varnish](optimized%2Ffifth%20ingredient%2Fchameleonic%20varnish.svg)     |     ![Chameleonic Varnish (No Outline)](optimized%2Ffifth%20ingredient%2Fchameleonic%20varnish%20-%20no%20outline.svg)     |
-| Dram of Poltergeist Sweat |                                                                                            |             ![Drqm of Poltergeist Sweat](optimized%2Ffifth%20ingredient%2Fdram%20of%20poltergeist%20sweat.svg)             | ![dram of poltergeist sweat.svg](optimized%2Ffifth%20ingredient%2Fdram%20of%20poltergeist%20sweat.svg)
+| Dram of Poltergeist Sweat |                                                                                            |             ![Drqm of Poltergeist Sweat](optimized%2Ffifth%20ingredient%2Fdram%20of%20poltergeist%20sweat.svg)             |
 | Ghastly Concoction        |                                                                                            |                      ![Ghastly Concoction](optimized%2Ffifth%20ingredient%2Fghastly%20concoction.svg)                      |
 
 

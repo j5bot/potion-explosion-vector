@@ -13,7 +13,9 @@
  h1,h2,h3,h4,td,th { color: rgb(62,62,62); }
 </style>
 
-# Potion Explosion Vector Graphics 
+# Potion Explosion Vector Graphics
+
+[Download Vector Graphics](https://github.com/j5bot/potion-explosion-vector/archive/refs/heads/main.zip)
 
 ## Base Game
 

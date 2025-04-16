@@ -1,18 +1,3 @@
-<style>
- body { background-color: white; }
- 
- table,thead,tbody,tr,th,td {
- border-color: lightgray !important;
- border-left: none !important; 
- border-right: none !important;
- vertical-align: center;
- }
-
- img { max-height: 128px; max-width: 128px; zoom: 2; }
- 
- h1,h2,h3,h4,td,th { color: rgb(62,62,62); }
-</style>
-
 # Potion Explosion Vector Graphics
 
 [Download Vector Graphics](https://github.com/j5bot/potion-explosion-vector/archive/refs/heads/main.zip)

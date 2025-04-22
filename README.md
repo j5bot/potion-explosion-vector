@@ -1,6 +1,6 @@
-# Potion Explosion Vector Graphics
+# Potion Explosion Potion Symbol Vectors/Images
 
-[Download Vector Graphics](https://github.com/j5bot/potion-explosion-vector/archive/refs/heads/main.zip)
+[Download Graphics](https://github.com/j5bot/potion-explosion-vector/archive/refs/heads/main.zip)
 
 ## Base Game
 

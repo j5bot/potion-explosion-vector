@@ -42,3 +42,9 @@
 | Fulminating Serum             |               ![Fulminating Serum](optimized%2Findividual%2Ffulminating%20serum.svg)               |               ![Fulminating Serum (No Outline)](optimized%2Findividual%2Ffulminating%20serum%20-%20no%20outline.svg)               |
 | Lotion of Invisibility        |         ![Lotion of Invisibility](optimized%2Findividual%2Flotion%20of%20invisibility.svg)         |         ![Lotion of Invisibility (No Outline)](optimized%2Findividual%2Flotion%20of%20invisibility%20-%20no%20outline.svg)         |
 | Tonic of Glacial Preservation | ![Tonic of Glacial Preservation](optimized%2Findividual%2Ftonic%20of%20glacial%20preservation.svg) | ![Tonic of Glacial Preservation (No Outline)](optimized%2Findividual%2Ftonic%20of%20glacial%20preservation%20-%20no%20outline.svg) |
+
+## Collector's Edition
+
+| Name                        |                                                     Outlined                                                     |                                                                    No Outline                                                                    |
+|:----------------------------|:----------------------------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------:|
+| Extract of Shuffling Fortune | ![Extract of Shuffling Fortune](optimized%2Fcollector%27s%20edition%2Fextract%20of%20shuffling%20fortune.svg) | ![Extract of Shuffling Fortune (No Outline)](optimized%2Fcollector%27s%20edition%2Fextract%20of%20shuffling%20fortune%20-%20no%20outline.svg) |
